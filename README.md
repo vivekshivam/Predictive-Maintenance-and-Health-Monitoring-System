@@ -19,8 +19,7 @@ PowerBI: Data visualization and dashboard creation
 Install PowerBI Desktop for creating and viewing dashboards.
 
 Usage
-Prepare your data in an Excel file named classified_data.xlsx and place it in the root directory.
-
+Prepare your data in an Excel file named classified_data.xlsx and place it in the root directory. Note: The dataset used for this project is confidential due to a non-disclosure agreement (NDA) and cannot be shared.
 
 Open PowerBI Desktop and load the equipment_health_scores.xlsx file to visualize the data.
 
