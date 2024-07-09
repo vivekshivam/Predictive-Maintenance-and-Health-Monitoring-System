@@ -1,4 +1,3 @@
-# Predictive-Maintenance-and-Health-Monitoring-System
 Welcome to the Predictive Maintenance and Health Monitoring System (PMHMS) repository. This project aims to optimize industrial equipment maintenance through predictive analytics and health monitoring, leveraging machine learning techniques to predict maintenance schedules and assess equipment health.
 
 The Predictive Maintenance and Health Monitoring System (PMHMS) is designed to help industries reduce downtime, improve safety, and lower maintenance costs by predicting equipment failures before they occur. The system uses machine learning models to analyze historical maintenance data and forecast future maintenance needs.
